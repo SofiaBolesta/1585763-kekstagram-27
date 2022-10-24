@@ -14,5 +14,3 @@ randomPosts.forEach(({url, description, likes}) => {
 });
 
 postsContainers.append(postsFragment);
-
-console.log(postsFragment);
